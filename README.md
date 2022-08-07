@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelixOnofrei
-- 👀 I’m interested in Data Analysis, Machine Learning, Data Science
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning python, Data Science
 - 📫 How to reach me: felix.onofrei.afa@gmail.com
 
