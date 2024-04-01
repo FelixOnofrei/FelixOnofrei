@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-
+- 👋 Hi, I'm Felix
 - 👀 I’m active in the Data Science industry
 - 👩‍💻 I love engineering and coding
 - 💻 Main language: Python
