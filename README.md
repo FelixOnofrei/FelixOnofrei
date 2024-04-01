@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @FelixOnofrei
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning python, Data Science
+
+<p align="center">
+	<a href="https://github.com/FelixOnofrei">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=DS%20|%20AI%20|%20ML&center=true&width=560&height=45&color=028888&size=26">
+	</a>
+</p>
+
+
+- 👀 I’m active in the Data Science industry
+- 👩‍💻 I love engineering and coding
+- 💻 Main language: Python
 - 📫 How to reach me: felix.onofrei.afa@gmail.com
 
-<!---
-FelixOnofrei/FelixOnofrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
